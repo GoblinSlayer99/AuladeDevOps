@@ -1,4 +1,4 @@
 # AuladeDevOps
 Aula de DevOps
 <br>
-Aluno: Davi Sun<br>
+Aluno: Davi Costa Sun<br>
